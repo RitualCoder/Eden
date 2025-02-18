@@ -34,7 +34,7 @@ export default function NosAventures() {
         >
           <Box
             component={"img"}
-            src="images/asset7.png"
+            src="images/notreConcept.webp"
             alt="Image acceuil"
             sx={{
               width: { xs: "180%", md: "100%" },
